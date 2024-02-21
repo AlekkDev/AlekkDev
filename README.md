@@ -1,5 +1,6 @@
-# 💫 About Me:
-🔭 I’m Alek
+# Hey, I’m Alek
+## I'm a full time Informatics student
+## Currently making a video game in Godot
 
 
 # 💻 Tech Stack:
