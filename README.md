@@ -1,5 +1,5 @@
 # Hey, I’m Alek
-* I'm a full time Informatics student
+* Full time Informatics student
 * Currently making a video game in Godot
 
 
