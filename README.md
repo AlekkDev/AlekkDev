@@ -1,6 +1,5 @@
 # Hey, I’m Alek
 * Full time Informatics student
-* Can be found making video games in Godot
 
 
 # 💻 Tech Stack:
