@@ -1,6 +1,6 @@
 # Hey, I’m Alek
 * Full time Informatics student
-* :bosnia_herzegovina:
+<span class="flag-icon flag-icon-bih"></span>
 
 
 # 💻 Tech Stack:
