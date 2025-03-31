@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools I'm proficient in</h3>
+<h3 align="left">🛠 Languages and tools I'm proficient in</h3>
 
 ###
 
