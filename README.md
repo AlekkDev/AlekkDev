@@ -1,3 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlekkDev/AlekkDev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlekkDev/AlekkDev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlekkDev/AlekkDev/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
 <div align="center">
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTl2cjFsamd4dGloZWkyd2tqM3dldmQ2eTkzNnQ1NDU5aWN1eHpoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
 </div>
@@ -50,11 +58,5 @@
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlekkDev/AlekkDev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlekkDev/AlekkDev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlekkDev/AlekkDev/output/pacman-contribution-graph.svg">
-</picture>
 
 
