@@ -1,11 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlekkDev/AlekkDev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlekkDev/AlekkDev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlekkDev/AlekkDev/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AlekkDev.AlekkDev&"  />
 </div>
@@ -16,11 +8,11 @@
 
 ###
 
-<p align="left">I'm Alek, from Bosnia and Herzegovina/Croatia 🇧🇦<br><br>- 🔭 I’m working as ___<br>- 📚 I'm currently learning Cybersecurity, Distributed Systems, Data Mining and Machine learning<br>- 🔍 Looking for an Internship in any field of Informatics</p>
+<h3 align="left">🛠 Language and tools I'm proficient in</h3>
 
 ###
 
-<h3 align="left">🛠 Languages and tools I'm proficient in</h3>
+<p align="left">I'm Alek, from Bosnia and Herzegovina/Croatia 🇧🇦<br><br>- 🔭 I’m working as ___<br>- 📚 I'm currently learning Cybersecurity, Distributed Systems, Data Mining and Machine learning<br>- 🔍 Looking for an Internship in any field of Informatics</p>
 
 ###
 
@@ -53,4 +45,10 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlekkDev/AlekkDev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlekkDev/AlekkDev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlekkDev/AlekkDev/output/pacman-contribution-graph.svg">
+</picture>
 
+###
