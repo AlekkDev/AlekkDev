@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Alek, from Bosnia and Herzegovina/Croatia 🇧🇦<br><br>- 🔭 I’m working as ___<br>- 📚 I'm currently learning Cybersecurity, Distributed Systems, Data Mining and Machine learning<br>- 🔍 Looking for an Internship in any field of Informatics</p>
+<p align="left">I'm Alek, from Bosnia and Herzegovina/Croatia <br><br>- 🔭 I’m working as ___<br>- 📚 I'm currently learning Cybersecurity, Distributed Systems, Data Mining and Machine learning<br>- 🔍 Looking for an Internship in any field of Informatics</p>
 
 ###
 
